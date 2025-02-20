@@ -9,9 +9,11 @@
 <details>
 <summary>By Category</summary>
 
-- Ramblings
 - Articles
+  - [A Baysian and a Frequentist Walk into A Bar...](posts/basian_v_frequentist.md)
 - Tutorials
+- Ramblings
+<br>
 </details>
 
 <details>
@@ -19,14 +21,19 @@
 
 - Data Analysis
 - Business Intelligence
+- Statistics
+  - [A Baysian and a Frequentist Walk into A Bar...](posts/basian_v_frequentist.md)
+<br>
 </details>
 
 <details>
 <summary>By Date - Asc</summary>
 
-- 2021
+- 2018
+  - [A Basian and a Frequentist Walk into A Bar...](posts/basian_v_frequentist.md)
 - 2022
 - 2023
+<br>
 </details>
 
 <details>
@@ -34,6 +41,7 @@
 
 - A
 - B
+  - [A Baysian and a Frequentist Walk into A Bar...](posts/basian_v_frequentist.md)
 - C
-
+<br>
 </details>

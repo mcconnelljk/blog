@@ -1,3 +1,8 @@
+---
+title: "A Bayesian and a Frequentist Walk Into A Bar: The Philosophical Basis of Statistical Misuse"
+author: Jaclyn McConnell
+date: 2018-01-01
+---
 # A Bayesian and a Frequentist Walk Into A Bar
 ## The Philosophical Basis of Statistical Misuse
 
